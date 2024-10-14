@@ -1,1 +1,1 @@
-# translationBlog
+# translationBlog React app blog updated with lanquage translation of english and spanish more languages can be added.Users can now add comments to the posts. App is deployed on netlify https://670c7a6a681752250091a7ff--ubiquitous-baklava-146a9d.netlify.app/
